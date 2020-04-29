@@ -1,4 +1,4 @@
-$('.totals .owl-carousel').owlCarousel({
+$('.totals.owl-carousel').owlCarousel({
     loop:true,
     margin:10,
     responsiveClass:true,
